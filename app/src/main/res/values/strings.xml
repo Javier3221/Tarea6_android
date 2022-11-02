@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea6</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">tab3</string>
+    <string name="tab_text_4">tab4</string>
+</resources>
